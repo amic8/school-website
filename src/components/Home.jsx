@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className='home-cntr' style={{padding:'20 px',textAlign:'center'}}>
     <h1 style={{padding:'20px', color: '#000'}}>Welcome to Our School Website!!</h1>
-    <img src='/src/assets/school1.jpeg' alt='School-pic'
+    <img src='/school1.jpeg' alt='School-pic'
     style={{width:'100%',maxWidth:'600px',marginTop:'1px',}}
     />
     <div >
